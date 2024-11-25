@@ -1,4 +1,4 @@
-# Backend Engineering Video Lectures by Prachi Shah
+# Backend Engineering Video Lectures, by Prachi Shah
 
 Backend Engineering Video Lectures and Presentations by Prachi Shah.
 - Presentation for each lecture session on a backend engineering topic, created between 2021 and 2024.
