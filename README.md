@@ -1,5 +1,3 @@
-```Work in Progress```
-
 # Backend Engineering Video Lectures, by Prachi Shah
 
 Backend Engineering Video Lectures and Presentations by Prachi Shah.
@@ -8,5 +6,5 @@ Backend Engineering Video Lectures and Presentations by Prachi Shah.
 - Sessions done during volunteering at a Women in Technology Organization.
 
 Author: Prachi Shah @ https://pcisha.my.canva.site/
-
+Year: 2025
 P.S. The default copyright laws apply.
